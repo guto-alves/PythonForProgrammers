@@ -1,6 +1,6 @@
 # PythonForProgrammers
 
-This repository contains implementations cases study from book Python for Programmers: With Big Data and Artificial Intelligence Case Studies by H. M. Deitel
+This repository contains implementations of the case studies from the book Python for Programmers: With Big Data and Artificial Intelligence Case Studies by H. M. Deitel
 
 ### Chapter 5
 - #### Static Visualization:
